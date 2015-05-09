@@ -15,6 +15,9 @@ msFilterList
 -d ads.xahoi.com.vn
 -d blueserving.com
 -d betrad.com
+-d a.kickass.to
+-d ab-gb.mgid.com
+-d counter.yadro.ru
 -d adnetwork.vn
 -d optimizely.com
 -d adzerk.net
