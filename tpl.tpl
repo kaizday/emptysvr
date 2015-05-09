@@ -17,6 +17,7 @@ msFilterList
 -d betrad.com
 -d adnetwork.vn
 -d optimizely.com
+-d adzerk.net
 -d doubleclick.net
 -d cms.analytics.yahoo.com
 -d google-analytics.com
