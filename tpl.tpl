@@ -1,5 +1,5 @@
-Enter file contents heremsFilterList
-# Title: My TPL at Work
+msFilterList
+# Title: My TPL
 : Expires=100
 -d interactions.vnexpress.net
 -d polyad.net
