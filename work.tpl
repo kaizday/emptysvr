@@ -1,6 +1,8 @@
 msFilterList
 # Title: My TPL at Work
-: Expires=100
+: Expires=1
+-d imgur.com
+-d m.imgur.com
 -d optimizely.com
 -d doubleclick.net
 -d cms.analytics.yahoo.com
