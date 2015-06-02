@@ -3,6 +3,8 @@ msFilterList
 : Expires=1
 -d imgur.com
 -d m.imgur.com
+-d pixel.quantserve.com
+-d edge.quantserve.com
 -d optimizely.com
 -d doubleclick.net
 -d cms.analytics.yahoo.com
