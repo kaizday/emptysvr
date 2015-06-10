@@ -17,5 +17,5 @@ msFilterList
 -d google-analytics.com
 -d y.analytics.yahoo.com
 -d geo.query.yahoo.com
-- /cv/ae/us/audience/
-- tutorial.php
+- /nq/assets/ad
+- /cv/ae/us/audience
