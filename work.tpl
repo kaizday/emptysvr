@@ -19,3 +19,4 @@ msFilterList
 -d geo.query.yahoo.com
 - /nq/assets/ad
 - /cv/ae/us/audience
+- /cv/eng/externals/cv
