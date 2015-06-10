@@ -11,6 +11,7 @@ msFilterList
 -d facebook.com
 -d facebook.net
 -d youtube.com
+-d www.youtube.com
 -d google-analytics.com
 -d y.analytics.yahoo.com
 -d geo.query.yahoo.com
