@@ -1,6 +1,8 @@
 msFilterList
 # Title: My TPL at Work
 : Expires=1
+-d sb.scorecardresearch.com
+-d ad.apps.fm
 -d imgur.com
 -d m.imgur.com
 -d pixel.quantserve.com
