@@ -1,6 +1,15 @@
 msFilterList
 # Title: My TPL at Work
 : Expires=1
+-d adadvisor.net
+-d addthis.com
+-d adnxs.com
+-d admaym.com
+-d adsymptotic.com
+-d adtechus.com
+-d advertising.com
+-d affiliates.mgmmirage.com
+-d zaloapp.com
 -d sb.scorecardresearch.com
 -d ad.apps.fm
 -d imgur.com
