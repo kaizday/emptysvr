@@ -1,9 +1,19 @@
-<?doctype html?>
+<!doctype html>
 <html>
 <head>
   <title>My Tracking Protection List</title>
+  <script type="text/javascript">
+    function loadTPFile() {
+      var URL = document.getElementById("tplFile").value;
+      var description = "My TPL";
+      window.external.msAddTrackingProtectionList(URL, description);
+    }
+  </script>
 </head>
 <body>
-  <p>Test</p>
+  <div>
+    <button onclick="loadTPFile();">Load TPL File</button>
+    <input id="tplFile" type="text" value="tpl.tpl" size="100"/>
+  </div>
 </body>
 </html>
