@@ -6,6 +6,9 @@ msFilterList
 -d youtube.com
 -d flickr.com
 -d imgur.com
+-d a.tribalfusion.com
+-d match.adsrvr.org
+-d p.adsymptotic.com
 -d blueserving.com
 -d betrad.com
 -d ab-gb.mgid.com
