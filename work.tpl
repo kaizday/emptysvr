@@ -1,5 +1,5 @@
 msFilterList
-# Title: My TPL at Work
+# Title: My TPL
 : Expires=1
 -d adadvisor.net
 -d addthis.com
@@ -26,6 +26,4 @@ msFilterList
 -d google-analytics.com
 -d y.analytics.yahoo.com
 -d geo.query.yahoo.com
-- /nq/assets/ad
-- /cv/ae/us/audience
-- /cv/eng/externals/cv
+
