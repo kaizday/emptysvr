@@ -1,6 +1,8 @@
 127.0.0.1 localhost
 ::1 localhost
 
+0.0.0.0 0.0.0.0
+
 0.0.0.0 connect.facebook.net
 0.0.0.0 www.facebook.com
 
@@ -27,6 +29,7 @@
 0.0.0.0 cdn.ambientplatform.vn
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 e-vcd.anthill.vn
+0.0.0.0 us-ads.openx.net
 0.0.0.0 lab.blueserving.com
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 pagead2.googlesyndication.com
@@ -39,6 +42,10 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 s.ad360.vn
+0.0.0.0 efukt.disqus.com
+0.0.0.0 i.bongacash.com
+0.0.0.0 plug.plugerr.com
+0.0.0.0 www.redditmedia.com
 0.0.0.0 provider.ad360.vn
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 gum.criteo.com
@@ -51,7 +58,16 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 ox-d.slickdeals.servedbyopenx.com
 0.0.0.0 pix04.revsci.net
+0.0.0.0 banners.cams.com
+0.0.0.0 graphics1.sextracker.com
+0.0.0.0 syndication.traffichaus.com
+0.0.0.0 ads.adxpansion.com
+0.0.0.0 cs.adxpansion.com
+0.0.0.0 cdn1ht.traffichaus.com
+0.0.0.0 aa.hexawebhosting.com
 0.0.0.0 segs.btrll.com
+0.0.0.0 media.hexawebhosting.com
+0.0.0.0 ss.hexawebhosting.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adn.taboola.com
 0.0.0.0 ping.chartbeat.net
@@ -96,6 +112,13 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 engine.phn.doublepimp.com
+0.0.0.0 cdn1.traffichaus.com
+0.0.0.0 m.sancdn.net
+0.0.0.0 as.sexad.net
+0.0.0.0 static.ifa.camads.net
+0.0.0.0 adxserve.net
+0.0.0.0 ads.exoclick.com
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 pipeaota.com
 0.0.0.0 ss.phncdn.com
 0.0.0.0 media.install.wtf
@@ -108,7 +131,6 @@
 0.0.0.0 content.linkoffers.net
 0.0.0.0 www.yceml.net
 0.0.0.0 rcm-na.amazon-adsystem.com
-0.0.0.0 ecx.images-amazon.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 eucookie.internetbrands.com
@@ -116,7 +138,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 i.eroshare.com
 0.0.0.0 ads.adsclean.com
-0.0.0.0 ratator.trafficstars.com
+0.0.0.0 rotator.trafficstars.com
 0.0.0.0 static.adzerk.net
 0.0.0.0 cdn11.contentabc.com
 0.0.0.0 wac.2ddcc.alphacdn.net
@@ -127,3 +149,23 @@
 0.0.0.0 s.zkcdn.net
 0.0.0.0 z.moatads.com
 0.0.0.0 engine.a.redditmedia.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 whos.amung.us
+0.0.0.0 widgets.amung.us
+0.0.0.0 ums.adtechus.com
+0.0.0.0 sync.adaptv.advertising.com
+0.0.0.0 cdn.pubnub.com
+0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 dpm.demdex.net
+0.0.0.0 rum-collector.wpm.neustar.biz
+0.0.0.0 static.criteo.net
+0.0.0.0 loadus.exelator.com
+0.0.0.0 d2lo2tipcl3aii.cloudfront.net
+0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 static.ibsrv.net
+0.0.0.0 match.adsrvr.org
+0.0.0.0 static.gammaplatform.com
+0.0.0.0 e-vcdn.anthill.vn
+0.0.0.0 cm.gammaplatform.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 acdn.adnxs.com
