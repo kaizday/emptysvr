@@ -7,3 +7,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 app.adjust.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 geomobileservices-pa.googleapis.com
