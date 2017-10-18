@@ -1,2 +1,9 @@
-scdn.eclick.vn
-t.eclick.vn
+0.0.0.0 scdn.eclick.vn
+0.0.0.0 t.eclick.vn
+0.0.0.0 app-measurement.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 app.adjust.com
