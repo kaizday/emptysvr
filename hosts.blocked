@@ -1,3 +1,6 @@
+0.0.0.0 logus.xiaoyi.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 log.pinterest.com
 0.0.0.0 scdn.eclick.vn
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 adtima-media-td.zadn.vn
@@ -11,4 +14,5 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 stats.appsflyer.com
+0.0.0.0 api2.appsflyer.com
 0.0.0.0 geomobileservices-pa.googleapis.com
